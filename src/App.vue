@@ -1,9 +1,11 @@
 <template>
     <div>
-      <div style="margin:10% 25%;">
+      <div style="margin:10% 25%;width:550px">
         <br>
         <ejs-multiselect :dataSource='remoteData' 
-        :fields='remoteFields' placeholder='Select a name' 
+        :fields='remoteFields' placeholder='Select a name'
+        popupWidth="550px"
+        popupHeight="200px"
         sortOrder='Descending'>
         </ejs-multiselect>
       </div>
