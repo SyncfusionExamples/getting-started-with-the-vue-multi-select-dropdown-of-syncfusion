@@ -2,7 +2,7 @@
 
 Learn how easily you can create and configure the Syncfusion Vue MultiSelect Dropdown List using Vue CLI. You will also learn how to populate JSON data and remote data sources to the MultiSelect Dropdown List, how to sort the data source, and how to set a custom height and width for the MultiSelect Dropdown List popup. 
 
-Documentatio Link: https://ej2.syncfusion.com/vue/documentation/multi-select/getting-started
+Documentation Link: https://ej2.syncfusion.com/vue/documentation/multi-select/getting-started
 
 Demo Link: https://ej2.syncfusion.com/vue/demos/#/material/multi-select/default.html 
 
